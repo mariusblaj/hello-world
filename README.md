@@ -1,2 +1,3 @@
 # hello-world
 Repository for learning and practicing GitHub
+Este prima mea experienta cu GitHub. Abia invat...
